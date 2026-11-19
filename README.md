@@ -37,8 +37,6 @@ On the untouched starter, 11 tests pass and 9 fail. Nine of the passing tests ch
 
 ![The terminal after dart test and dart run](screenshot.png)
 
-Replace this picture with your own. Run `dart test` and `dart run`, take a screenshot of your terminal, name it `screenshot.png`, and put it in the top folder of this repository, next to this README.
-
 ## AI note
 
 I didn't use AI
